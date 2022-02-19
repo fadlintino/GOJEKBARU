@@ -12,6 +12,6 @@ script auto claim voucher + setpin
 
 - git clone https://github.com/fadlintino/GOJEKBARU.git
 
-- cd gojek
+- cd GOJEKBARU
 
 - php run.php
