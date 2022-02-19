@@ -5,7 +5,7 @@ ulang:
 // function change(){
 	echo color("red","             SCRIPT GRATIS TIDAK DI JUAL \n");
 	echo color("white","                 ".date('d-m-Y H:i:s')."   \n");
-	echo color("white","             © 2002-2020 Fedora Computer       \n");
+	echo color("white","             © 2008-2022 NZR PHONE Banda Aceh       \n");
 	echo color("white","                  Format Kode 62*** \n\n");
 	$nama = nama();
 	$email = str_replace(" ", "", $nama) . mt_rand(100, 999);
