@@ -10,7 +10,7 @@ script auto claim voucher + setpin
 
 - pkg install git
 
-- git clone https://github.com/youree82/gojek
+- git clone https://github.com/fadlintino/GOJEKBARU.git
 
 - cd gojek
 
